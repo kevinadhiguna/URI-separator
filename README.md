@@ -13,7 +13,9 @@ Below are examples of this app separates a URI :
 <img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/3.png" width="90%"></img> <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/4.png" width="90%"></img> <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/5.png" width="90%"></img> <br><br>
-<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/6.png" width="90%"></img> 
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/6.png" width="90%"></img> <br><br>
+
+As you can see, some URI seperation might be still inappropriate. If you are interested in making improvements, please feel free to make a pull request :)
 
 ## How to run :
 1) Input the URI you want to separate.
