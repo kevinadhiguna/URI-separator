@@ -6,6 +6,19 @@ URI-separator separates URI into :
 4. Fragment
 5. Path
 
-## How to use this app?
+## Demo
+Below are examples of this app separates a URI :
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/1.png" width="90%"></img> <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/2.png" width="90%"></img> <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/3.png" width="90%"></img> <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/4.png" width="90%"></img> <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/5.png" width="90%"></img> <br><br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/uri-separator/master/demo/6.png" width="90%"></img> 
+
+## How to run :
 1) Input the URI you want to separate.
-2) Open terminal / Comman Prompt, then type `python uri-separator.py`.
+2) Open terminal / command prompt, then run : 
+### `python uri-separator.py`
+or
+### `python3 uri-separator.py`
+
