@@ -20,7 +20,8 @@ As you can see, some URI seperation might be still inappropriate. If you are int
 ## How to run :
 1) Input the URI you want to separate.
 2) Open terminal / command prompt, then run : 
-### `python uri-separator.py`
+`python uri-separator.py`
 or
-### `python3 uri-separator.py`
+`python3 uri-separator.py`
 
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/URI-separator)](https://github.com/kevinadhiguna)
