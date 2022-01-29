@@ -1,9 +1,9 @@
 #   Date    :   Monday, 9th March 2020
 #   Nama    :   Kevin Akbar Adhiguna
 
-# Fungsi memetakan string diantara dua karakter
+# A function that maps string between two characters
 def antara(nilai, a, b):
-    # Menemukan string sebelumnya
+    # Find the previous string
     pos_a = nilai.find(a)
     if pos_a == -1: return ""
     # Menemukan string setelahnya
@@ -14,7 +14,7 @@ def antara(nilai, a, b):
     if adjusted_pos_a >= pos_b: return ""
     return nilai[adjusted_pos_a:pos_b]
 
-# Fungsi memetakan string sebelum sebuah karakter
+# A function that maps string before a character
 def depan(nilai, a):
     # Menemukan string sebelumnya
     pos_a = nilai.find(a)
@@ -22,7 +22,7 @@ def depan(nilai, a):
     # Mengembalikan nilai(slice) dari index ke-0 hingga indeks awal variabel
     return nilai[0:pos_a]
 
-# Fungsi memetakan string setelah sebuah karakter
+# A function that maps string after a character
 def belakang(nilai, a):
     # Menemukan string setelahnya
     pos_a = nilai.rfind(a)
